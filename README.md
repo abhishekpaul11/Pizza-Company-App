@@ -27,3 +27,14 @@ NODE_ENV=production node index.js
 Once the server successfully starts up, the application portal can be accessed on http://localhost:3000 (for staging) or http://localhost:5000 (for production).
 
 If Node is not installed, it can be downloaded from https://nodejs.org/
+
+A fully functional CLI tool has also been added with the following admin privileges:
+- Kill the CLI (and the rest of the application)
+- Get the CLI tool's manual
+- Get statistics on the underlying operating system and resource utilization of the app
+- Get a list of all the users who signed up in the last 24 hours
+- Get the details of a specified user
+- Get a list of all the orders made in the last 24 hours
+- Get the details of a specified order
+
+<img width="1132" alt="CLI Manual" src="https://user-images.githubusercontent.com/50466443/124157682-a7db4400-dab6-11eb-9b78-e7e3f1ae4074.png">
