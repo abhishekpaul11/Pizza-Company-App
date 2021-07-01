@@ -1,0 +1,22 @@
+{
+    "100": {
+        "name": "Chicken Pizza",
+        "price": "10"
+    },
+    "101": {
+        "name": "Margharita Pizza",
+        "price": "5"
+    },
+    "102": {
+        "name": "Paneer Pizza",
+        "price": "15"
+    },
+    "105": {
+        "name": "Cheese Burst",
+        "price": "30"
+    },
+    "106": {
+        "name": "Veg Pizza",
+        "price": "20"
+    }
+}
